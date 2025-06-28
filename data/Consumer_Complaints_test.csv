@@ -1,0 +1,11 @@
+Consumer ID,Product,Sub-product,Issue,Sub-issue,Consumer complaint narrative,Consumer disputed?
+41,Credit card,General purpose credit card,Billing disputes,Charged for something did not purchase,"Unauthorized charge appeared on my statement.",Yes
+42,Debt collection,Other debt,Communication tactics,Called too frequently,"Excessive calls from collection agency.",No
+43,Student loan,Federal student loan servicing,Repayment,Payment processing problems,"Payment not properly applied to account.",Yes
+44,Credit reporting,Credit monitoring or identity protection,Problem with a credit reporting company's investigation,Problem with statement of dispute,"Dispute not properly investigated.",No
+45,Checking account,Other,Account opening or closing,Unable to open account,"Account opening denied without explanation.",Yes
+46,Credit card,Store credit card,Billing disputes,Credit card company isn't resolving a dispute about a billing error,"Billing dispute unresolved after months.",Yes
+47,Mortgage,Conventional home mortgage,Loan modification or workout,Loan modification denial,"Modification request denied unfairly.",No
+48,Money transfer,Domestic wire transfer,Sending or receiving money,Problems sending money,"Wire transfer problems with processing.",Yes
+49,Payday loan,Title loan,Getting a loan,Problem with additional add-on products or services,"Unwanted add-on services charged to loan.",Yes
+50,Credit reporting,General credit reporting,Incorrect information on your report,Account status incorrect,"Incorrect account status on credit report.",No
